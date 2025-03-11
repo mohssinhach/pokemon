@@ -527,7 +527,7 @@ a:hover, a:visited, a:focus, a:active, button:hover, button:visited, button:acti
 	font-size: 1.4em;
 }
 .button:hover {
-	background: #587395;
+	background: #f2fa00;
 	color: #fff;
 }
 .button span.lnr {
@@ -564,7 +564,7 @@ footer {
 # Loader
 --------------------------------------------------------------*/
 .loader {
-  color: #587395;
+  color: #f2fa00;
   font-size: 70px;
   text-indent: -9999em;
   overflow: hidden;
