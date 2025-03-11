@@ -510,7 +510,7 @@ a:hover, a:visited, a:focus, a:active, button:hover, button:visited, button:acti
 	margin: 0 auto 0 auto;
 }
 .button {
-	background: #587395;
+	background: #f2fa00;
 	display: table;
 	margin: 0 auto;
 	padding: 25px 35px 25px 55px;
@@ -527,7 +527,7 @@ a:hover, a:visited, a:focus, a:active, button:hover, button:visited, button:acti
 	font-size: 1.4em;
 }
 .button:hover {
-	background: #f2fa00;
+	background: #587395;
 	color: #fff;
 }
 .button span.lnr {
